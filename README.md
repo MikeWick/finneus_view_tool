@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FinneusViewTool::Renderer.copyright 'Michael Wickert', 'All rights reserved'
+```
 
 ## Development
 
